@@ -1,0 +1,6 @@
+name: StatusEffects
+version: '1.0-SNAPSHOT'
+main: fun.n34.mayu.statusEffects.StatusEffects
+api-version: '1.20'
+authors: [ Mayu ]
+description: 描述
